@@ -1,0 +1,11 @@
+git init -- inicia repositorio git en carpeta
+git add -- añade modificaciones en el stage area.
+git status -- muestra el estado del repositorio.
+git commit -- guarda el cambio del stage area en el registro.
+git log -- muestra el historial de commit. --oneline, --graph
+git pull 
+git push
+git branch
+git remote
+git clone
+git checkout
